@@ -19,9 +19,9 @@
 - ❓ You can Email Me Through [Here](mailto:slpamya58@gmail.com)
 
 ...
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niko-pamiya&label=Profile%20views&color=0e75b6&style=flat" alt="niko-pamiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niko-boy80&label=Profile%20views&color=0e75b6&style=flat" alt="niko-pamiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niko-pamiya" alt="niko-pamiya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niko-pamiya" alt="niko-boy80" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ...
@@ -30,7 +30,7 @@
 ...
 
 <div align="center">
-<a href="https://github.com/NIKO-PAMIYA" target="_blank">
+<a href="https://github.com/niko-boy80" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://wa.me/+94743595243">
@@ -47,6 +47,6 @@
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKO-PAMIYA&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=niko-boy80&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
 bg_color=#808080/>
